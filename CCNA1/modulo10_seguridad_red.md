@@ -1,4 +1,4 @@
-# CCNA1 – Módulo 10
+# CCNA1 – Módulo 1
 Fundamentos de seguridad de red
 
 ## Objetivo
