@@ -20,7 +20,7 @@ Los diagramas de red son representaciones visuales que muestran:
 - Conexiones
 - Estructura de la red
 
-Permiten entender, diseñar y administrar redes de forma eficiente.  [oai_citation:0‡Tpologias de redes S5.pdf](sediment://file_00000000991c71f5bbbe420c0cc54c79)
+Permiten entender, diseñar y administrar redes de forma eficiente.  
 
 ---
 
