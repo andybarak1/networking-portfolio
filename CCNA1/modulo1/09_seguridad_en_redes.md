@@ -136,3 +136,8 @@ La seguridad de una red no depende de una sola herramienta, sino de múltiples c
 ## 🧨 Regla de oro
 
 La seguridad en redes se construye en capas, no en una sola solución.
+------------
+
+## 📌 Material de Descarga
+
+https://drive.google.com/file/d/1sctSXy1b-uTLjm5HxNEmkvtk_yMnTRrH/view
